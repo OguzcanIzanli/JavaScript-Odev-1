@@ -1,5 +1,5 @@
 # JavaScript-Odev-1
 
-JavaScript kullanılarak açılan web sayfasında prompt komutu ile hoşgeldin ekranına isim yazdırma ve saat ekleme.
+JavaScript kullanılarak açılan web sayfasında prompt ile karşılama ekranına isim yazdırılarak güncel saat ve günü eklendi.
 
-![JS-Odev-1](https://user-images.githubusercontent.com/95178772/147365452-96d9106f-3125-4ab8-9a72-4c30eb5d5602.PNG)
+![webgif](https://user-images.githubusercontent.com/95178772/158210437-3b1b214d-12a4-4014-a4f8-5297794ce128.gif)
