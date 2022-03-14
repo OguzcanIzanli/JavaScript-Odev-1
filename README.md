@@ -1,4 +1,4 @@
-# JavaScript-Odev-1
+# JavaScript - Saat ve Karşılama
 
 JavaScript kullanılarak açılan web sayfasında prompt ile karşılama ekranına isim yazdırılarak güncel saat ve günü eklendi.
 
